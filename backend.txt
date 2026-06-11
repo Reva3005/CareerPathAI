@@ -1,0 +1,14 @@
+Backend Developer Roadmap
+
+Backend Developer bertanggung jawab mengelola server, database, dan API.
+
+Skill:
+Node.js
+Express.js
+MySQL
+PostgreSQL
+REST API
+Authentication
+
+Roadmap:
+JavaScript → Node.js → Express.js → Database → API

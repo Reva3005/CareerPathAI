@@ -1,0 +1,13 @@
+Frontend Developer Roadmap
+
+Frontend Developer bertanggung jawab membuat tampilan website yang digunakan pengguna.
+
+Skill:
+HTML
+CSS
+JavaScript
+React
+Git
+
+Roadmap:
+HTML → CSS → JavaScript → React → Git → Portfolio Project

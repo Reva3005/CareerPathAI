@@ -1,0 +1,13 @@
+Data Analyst Roadmap
+
+Data Analyst bertugas mengolah dan menganalisis data.
+
+Skill:
+Excel
+SQL
+Python
+Statistics
+Power BI
+
+Roadmap:
+Excel → SQL → Python → Statistics → Power BI
